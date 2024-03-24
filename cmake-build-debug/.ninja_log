@@ -1,0 +1,18 @@
+# ninja log v5
+3	1049	7104094137180949	CMakeFiles/untitled.dir/main.c.obj	7ef7769442261485
+16	2639	7104234719144623	CMakeFiles/untitled.dir/main_project.c.obj	53d22d53bd2aafd
+788	1068	7104449404919351	untitled.exe	1718e8bce488936
+9	1029	7104099064218419	CMakeFiles/untitled.dir/save.c.obj	2d35380430f65287
+2	785	7104449402138261	CMakeFiles/untitled.dir/decode.c.obj	86a544be4ced9d3e
+1	59	7102687470861366	CMakeFiles/untitled.dir/url.c.obj	e1657901aa2ad346
+1	1412	7104452368795476	build.ninja	ddb768ebfbfa27f5
+3	2145	7104452438461354	CMakeFiles/untitled.dir/main_project.c.obj	53d22d53bd2aafd
+2149	2285	7104452439947089	untitled.exe	10b514b0afe33c8f
+25	3319	7105072783749661	CMakeFiles/untitled.dir/main_project.c.obj	53d22d53bd2aafd
+3320	3879	7105072789334976	untitled.exe	10b514b0afe33c8f
+6	1901	7105079507883820	CMakeFiles/untitled.dir/main_project.c.obj	53d22d53bd2aafd
+1902	2097	7105079509820446	untitled.exe	10b514b0afe33c8f
+16	2036	7105087770941953	CMakeFiles/untitled.dir/main_project.c.obj	53d22d53bd2aafd
+2036	2211	7105087772655169	untitled.exe	10b514b0afe33c8f
+4	2828	7105148297694222	CMakeFiles/untitled.dir/main_project.c.obj	53d22d53bd2aafd
+2828	3153	7105148300928020	untitled.exe	10b514b0afe33c8f
